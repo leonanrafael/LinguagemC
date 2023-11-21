@@ -1,6 +1,5 @@
 
 #include <stdio.h>
-#include <stdlib.h>
 #include <locale.h>
 
 int main() {
@@ -13,22 +12,29 @@ int main() {
     setlocale(LC_ALL,"portuguese");
     char sexo;
     float altura,pesoIdeal;
+    int valido=0; // variavel criada para validar a entrada da variavel <char sexo>
 
-    printf("Informe o sexo: 'f' ou 'm': ");
-    sexo= getchar();
-    printf("Informe sua altura: ");
-    scanf("%f",&altura);
 
-    if (sexo=='m' || sexo=='M'){
-        pesoIdeal = (72.7 * altura) - 58;
-    }
-    else if (sexo == 'f' || sexo == 'F') {
-        pesoIdeal = (62.1 * altura) - 44.7;
-    }
-    else{
-        printf("Sexo invÃ¡lido. Por favor insira 'm' ou 'f'");
-        return 0;
-    }
+    do {
+        printf(" Informe o sexo: 'f' ou 'm': ");
+        scanf("%c",&sexo);
+        printf(" Informe sua altura: ");
+        scanf("%f", &altura);
+
+        while ((getchar()) != '\n'); // Limpa o buffer de entrada
+
+        if (sexo == 'm' || sexo == 'M') {
+            pesoIdeal = (72.7 * altura) - 58;
+            valido=1; // valor booleano = true
+        } else if (sexo == 'f' || sexo == 'F') {
+            pesoIdeal = (62.1 * altura) - 44.7;
+            valido=1; // valor  booleano = true
+        } else {
+            printf("***************************************************************\n");
+            printf(" Sexo inválido. Por favor insira: 'm' ou 'f'\n");
+            valido=0; // valor booleano = false
+        }
+    } while (!valido); //Os comandos dentro desse bloco serão repetidos até que o usuário digite 'm,M,s ou S' para a variavel: char sexo
 
     printf("\nSexo: %c \n",sexo);
     printf("Altura: %.2f\n",altura);

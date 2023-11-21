@@ -1,0 +1,17 @@
+# ninja log v5
+1	176	7215845875535899	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+180	514	7215845878786838	calcular_aumento.exe	c6937faf2e6dce6c
+3	193	7215847906228517	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+195	426	7215847908460917	calcular_aumento.exe	c6937faf2e6dce6c
+3	209	7215848783366271	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+211	448	7215848785656880	calcular_aumento.exe	c6937faf2e6dce6c
+2	145	7215879406834711	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+146	324	7215879408546097	calcular_aumento.exe	c6937faf2e6dce6c
+3	143	7215880405001745	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+164	336	7215880406846591	calcular_aumento.exe	c6937faf2e6dce6c
+3	164	7215887485601166	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+165	354	7215887487435577	calcular_aumento.exe	c6937faf2e6dce6c
+4	350	7222877338862933	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+352	876	7222877344012497	calcular_aumento.exe	c6937faf2e6dce6c
+5	263	7222878720646228	CMakeFiles/calcular_aumento.dir/main.c.obj	92bd063097a5412d
+264	544	7222878723349641	calcular_aumento.exe	c6937faf2e6dce6c
