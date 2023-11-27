@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug"
+			"value" : "c:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case"
+			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug"
+			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug"
 		},
 		{
 			"name" : "switch_case_IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case"
+			"value" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos"
 		}
 	],
 	"kind" : "cache",

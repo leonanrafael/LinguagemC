@@ -1,3 +1,3 @@
-C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug/CMakeFiles/switch_case.dir
-C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug/CMakeFiles/switch_case.dir
+C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case/cmake-build-debug",
-		"source" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/switch-case"
+		"build" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos/cmake-build-debug",
+		"source" : "C:/git/Linguagem-C/Estruturas_condicionais/descrever_pedidos"
 	},
 	"version" : 
 	{
