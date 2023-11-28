@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <locale.h>
-#include <stdlib.h>
 #include <string.h> // biblioteca para funções srtcpy e strcat (utilizei para "concatenar as strings dos pratos com as trings das bebidas)
 int main() {
     /*  informar os pratos tipicos e  as bebidas;
@@ -20,7 +19,8 @@ int main() {
     printf("\t\t\tSeja bem-vindo! \nFaça seu pedido e saiba o consumo de calorias!\n");
     printf("Digite: 1 - para Prato Salvadorenho | 2 - para Prato Japonês | 3 - para Prato Italiano:\n Opção escolhida: ");
     scanf("%d",&escolha);
-    //system("cls");
+
+    //Escolha dos pratos
     switch (escolha) {
         case 1: calorias = 545;
             strcpy(pedido,"Prato Salvadorenho "); //com a função strcpy eu quero dizer: pedipo="Prato Salvadorenho";
@@ -36,8 +36,8 @@ int main() {
     printf("\tOpções de bedida: \n\b 1 para Chá | 2 para Suco de laranja | 3 para Refrigerante \nOpção Escolhida: ");
     //\t para tab,\n para pular linha,\b para alinhar o texto no canto.
     scanf("%d", &escolha);
-    //system("cls");
 
+    // Escolha das bebidas
     switch (escolha) {
         case 1:
             calorias += 30;
