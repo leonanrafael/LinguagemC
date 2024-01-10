@@ -12,7 +12,7 @@ int main() {
     setlocale(LC_ALL,"portuguese");
     char sexo;
     float altura,pesoIdeal;
-    int valido=0; // variavel criada para validar a entrada da variavel <char sexo>
+    int valido = 0; // variavel criada para validar a entrada da variavel <char sexo>
 
 
     do {
@@ -31,10 +31,10 @@ int main() {
             valido=1; // valor  booleano = true
         } else {
             printf("***************************************************************\n");
-            printf(" Sexo inv·lido. Por favor insira: 'm' ou 'f'\n");
+            printf(" Sexo inv√°lido. Por favor insira: 'm' ou 'f'\n");
             valido=0; // valor booleano = false
         }
-    } while (!valido); //Os comandos dentro desse bloco ser„o repetidos atÈ que o usu·rio digite 'm,M,s ou S' para a variavel: char sexo
+    } while (!valido); //Os comandos dentro desse bloco ser√£o repetidos at√° que o usu√°rio digite 'm, M,f ou F' para a variavel: char sexo
 
     printf("\nSexo: %c \n",sexo);
     printf("Altura: %.2f\n",altura);
