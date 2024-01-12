@@ -1,3 +1,0 @@
-C:/git/Linguagem-C/unidade4/problema1/cmake-build-debug/CMakeFiles/problema1.dir
-C:/git/Linguagem-C/unidade4/problema1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/git/Linguagem-C/unidade4/problema1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
