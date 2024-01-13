@@ -1,0 +1,12 @@
+
+Requisitos Funcionais:
+- O sistema deve Cadastrar nome, CPF e qual setor de atendimento que deseja ser atendido:
+1 - Abertura de Conta
+2 - Caixa
+3 - Gerente Pessoa Física
+4 - Gerente Pessoa Jurídica
+- O Sistema deve ser capaz de  Listar todos os atendimentos registrados
+- O Sistema deve ser capaz de  Listar os atendimentos por setor  de atendimento: o usuário deve escolhar um dos setores  e, após a leitura, deve-se mostrar a listagem apenas do setor escolhido escolhido
+=================================================================================================================================================================================================================
+
+Futuramente, pretendo elaborar uma documentação com use case e o fluxo de use case 
