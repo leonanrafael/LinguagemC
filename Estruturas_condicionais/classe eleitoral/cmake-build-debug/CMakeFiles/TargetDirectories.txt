@@ -1,3 +1,0 @@
-C:/c_facul/cLion/Estruturas condicionais/classe eleitoral/cmake-build-debug/CMakeFiles/classe_eleitoral.dir
-C:/c_facul/cLion/Estruturas condicionais/classe eleitoral/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/c_facul/cLion/Estruturas condicionais/classe eleitoral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
